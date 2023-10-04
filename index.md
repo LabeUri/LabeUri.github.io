@@ -18,3 +18,12 @@ Hello World
 ### [GitHub](https://github.com/LabeUri)
 ### [Instagram](https://www.instagram.com/deadblader/)
 
+ ├─ images
+     └─ 1.png
+     └─ 2.png
+ ├─ README.md
+
+![Перша картинка](/images/1.png)
+![Друга картинка](/images/2.png)
+
+
