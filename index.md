@@ -2,39 +2,41 @@
 layout: default
 ---
 
-Портфоліо Олександра **Савтири**, _читаємо_,  ~~уважно!~~.
+Портфоліо Івана **Іванова**, _читаємо_,  ~~уважно!~~.
 
 [Перший скрин](./img/1.png).
+[Другий скрин](./img/2.png).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Цю сторінку створенно для лабораторної роботи, насолоджуйтесь.
 
-# Header 1
+# Контактні дані
+Іван Іванов 4/1 ІПЗ (ІПЗ-1)
++380123456789
+м. Чугуїв
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Перелік умінь та навичок, якими ви володієте
 
-## Header 2
-
-> This is a blockquote following a header.
+> С# +-
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> HTML +-
+>
+> Photoshop +-
+>
+> SAMP
 
-### Header 3
+
+# Посилання на проекти та ілюстрації до них
+
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+# Перший репозиторій
+[Перший тут](https://github.com/LabeUri/LabeUri.github.io.git)
 ```
 
 ```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+# Другій репозиторій
+[Другий тут](https://github.com/LabeUri/Hmarna-tema.git)
 ```
 
 #### Header 4
