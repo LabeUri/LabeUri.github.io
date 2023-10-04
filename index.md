@@ -25,99 +25,35 @@ layout: default
 >
 > SAMP
 
-
 # Посилання на проекти та ілюстрації до них
 
 
 # Перший репозиторій
 [Перший тут](https://github.com/LabeUri/LabeUri.github.io.git)
 
-```ruby
 # Другій репозиторій
-[Другий тут](https://github.com/LabeUri/Hmarna-tema.git)
-```
+[Другий тут](https://github.com/LabeUri/LabeUri1.github.io.git)
 
-#### Header 4
+# Посилання на ваші соціальні мережі
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
+| Соц. мережі        | Посилання                                               |
+|:-------------------|:--------------------------------------------------------|
+| Instagram          | [тут](https://www.instagram.com/deadblader/)            |
+| Git                | [тут](https://github.com/LabeUri?tab=repositories)      |
+| Коледж             | [тут](https://www.rv-it.college/)                       |
+## Малюнок
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Друг</dt>
+<dd>Сеген</dd>
+<dt>Рік народження Сегена</dt>
+<dd>2005</dd>
+<dt>Країна</dt>
+<dd>Україна</dd>
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+Дякую всім за увагу. Спасибо всем за внимание! Thank you all for your attention! Хвала свима на пажњи! Vielen Dank für Ihre Aufmerksamkeit!
 ```
