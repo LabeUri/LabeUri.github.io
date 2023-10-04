@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Портфоліо Олександра **Савтири**, _читаємо_,  ~~уважно!~~.
 
-[Link to another page](./another-page.html).
+[Перший скрин](./img/1.png).
 
 There should be whitespace between paragraphs.
 
