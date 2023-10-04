@@ -28,16 +28,15 @@ layout: default
 # Посилання на проекти та ілюстрації до них
 
 
-# Перший репозиторій
+### Перший репозиторій
 [Перший тут](https://github.com/LabeUri/LabeUri.github.io.git)
 
-# Другій репозиторій
+### Другій репозиторій
 [Другий тут](https://github.com/LabeUri/LabeUri1.github.io.git)
 
 # Посилання на ваші соціальні мережі
 
 | Соц. мережі        | Посилання                                               |
-|:-------------------|:--------------------------------------------------------|
 | Instagram          | [тут](https://www.instagram.com/deadblader/)            |
 | Git                | [тут](https://github.com/LabeUri?tab=repositories)      |
 | Коледж             | [тут](https://www.rv-it.college/)                       |
