@@ -29,10 +29,8 @@ layout: default
 # Посилання на проекти та ілюстрації до них
 
 
-```js
 # Перший репозиторій
 [Перший тут](https://github.com/LabeUri/LabeUri.github.io.git)
-```
 
 ```ruby
 # Другій репозиторій
